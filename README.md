@@ -1,6 +1,8 @@
 # EC463_minipro
 Development of an app in React Native Expo to scan and read a barcode with firebase authentication and database
 
+Changes to codebase and programming can be found in the Peter and John branches, final changes will be applied in master branch. 
+
 # DevLog / Goals
 
 ## Day1 9/8/2021
