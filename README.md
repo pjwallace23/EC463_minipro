@@ -21,9 +21,9 @@ Configured cloud firestore as our database (not using realtime database). Connec
 
 
 <img src="https://user-images.githubusercontent.com/50682462/133108334-b540e8d1-ea1c-4c8d-93aa-7a7bc9c008a0.PNG" width="333" height="500"> <img src="https://user-images.githubusercontent.com/50682462/133108343-74689156-90eb-4212-a20d-da1aff98ac91.PNG" width="333" height="500"> <img src="https://user-images.githubusercontent.com/50682462/133108348-6cfad94f-4059-4ecc-b56e-e93b2896bb00.PNG" width="333" height="500">
-> Figure 1, Login Page ----
-> Figure 2, Create New Account Page ----
-> Figure 3, Home Page ----
+> Figure 1, Login Page
+>                                                              Figure 2, Create New Account Page
+>                                                                                                                             Figure 3, Home Page 
 
 <img src="https://user-images.githubusercontent.com/50682462/133108959-24df95cb-e272-4581-a96c-e59f1843ab26.PNG" width="1000" height="400">
 
