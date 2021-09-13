@@ -19,7 +19,8 @@ Configured cloud firestore as our database (not using realtime database). Connec
 
 # Images
 
-![IMG-0403](https://user-images.githubusercontent.com/50682462/133108334-b540e8d1-ea1c-4c8d-93aa-7a7bc9c008a0.PNG){:height="50%" width="50%"}
+
+<img src="https://user-images.githubusercontent.com/50682462/133108334-b540e8d1-ea1c-4c8d-93aa-7a7bc9c008a0.PNG" width="100" height="100">
 
 > Figure 1, Login Page
 
