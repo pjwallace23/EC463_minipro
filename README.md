@@ -26,3 +26,5 @@ Peter: Implemented funcitonality to retrieve nutritional data from firestore dat
 
 ## Day 7 9/17/2021
 Continued attempting to implement functionality to display data in our app, but were unsuccessful. Final app will only be able to retrieve data and display it in the Expo console. 
+
+## SCREENSHOTS OF OUR APP ARE IN THE APP_SCREENSHOTS FOLDER
