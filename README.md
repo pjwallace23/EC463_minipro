@@ -1,8 +1,9 @@
 # EC463_minipro
 Development of an app in React Native Expo to scan and read a barcode with firebase authentication and database
-Changes to codebase and programming can be found in the variations of Peter and John branches, **final changes will be applied in master branch.** 
 
-# DevLog / Goals / Progress
+Changes to codebase and programming can be found in the Peter and John branches, final changes will be applied in master branch. 
+
+# DevLog / Goals
 
 ## Day1 9/8/2021
 Installed development tools, including Node, Expo CLI and Android Studio. Configured android studio emulator with expo and tested to make sure we can open hello world style apps in the emulator.
@@ -12,35 +13,3 @@ Worked remotely to setup Firebase with React Native (John) and Firebase with Exp
 
 ## Day3 9/11/2021
 Found a working case for the barcode scanner and implemented firebase and authentication. Started developing frontend UI and screen navigational logic for our final app.
-
-## Day4 9/12/2021
-Configured cloud firestore as our database (not using realtime database). Connected our barcode scanner and authentication components into our final app. Added navigational buttons to switch between screens. Have a working authentication + scanner app. Still to do: implement data transfer ability between firebase and our app, spruce up UI and make it look professional. Screenshots of our progress will be uploaded today.
-
-# Images
-
-
-<img src="https://user-images.githubusercontent.com/50682462/133108334-b540e8d1-ea1c-4c8d-93aa-7a7bc9c008a0.PNG" width="333" height="500"> <img src="https://user-images.githubusercontent.com/50682462/133108343-74689156-90eb-4212-a20d-da1aff98ac91.PNG" width="333" height="500"> <img src="https://user-images.githubusercontent.com/50682462/133108348-6cfad94f-4059-4ecc-b56e-e93b2896bb00.PNG" width="333" height="500">
-> **Figure 1**, Login Page --------
-> **Figure 2**, Create New Account Page --------
-> **Figure 3**, Home Page 
-
-<img src="https://user-images.githubusercontent.com/50682462/133108959-24df95cb-e272-4581-a96c-e59f1843ab26.PNG" width="1000" height="400">
-
-> Metro Bundler Web
-
-<img src="https://user-images.githubusercontent.com/50682462/133108970-d8ad0521-5c0d-4bb7-a801-2d2a92627053.PNG" width="1000" height="400">
-
-> Metro Bundler Terminal
-
-<img src="https://user-images.githubusercontent.com/50682462/133108986-4588e727-97e7-4ac9-94ca-a1a345f5e80b.PNG" width="1000" height="400">
-
-> Firebase Email Authentication
-
-
-## Day 5 9/14/2021
-
-Configured firestore database in Expo (John). Configured Scanner to send barcode data to FDA API, fetch JSON data for the scanned ingredient, and then store the data in the "food" collection in our firestore database (John). Cleaned up UI for the home and scanner screens (Peter).
-
-## Day 6 9/16/2021
-
-Configured Expo app to retrieve food ingredient data from firestore firebase. Data now prints in the Expo console when user presses the "Print Ingredient Data" button on the home screen. Was unable to as of now to store data in a variable that can be passed to a render () function in order to display it on the Food List screen. Will try again tomorrow to get that working.
