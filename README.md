@@ -35,3 +35,12 @@ Configured cloud firestore as our database (not using realtime database). Connec
 <img src="https://user-images.githubusercontent.com/50682462/133108986-4588e727-97e7-4ac9-94ca-a1a345f5e80b.PNG" width="1000" height="400">
 
 > Firebase Email Authentication
+
+
+## Day 5 9/14/2021
+
+Configured firestore database in Expo (John). Configured Scanner to send barcode data to FDA API, fetch JSON data for the scanned ingredient, and then store the data in the "food" collection in our firestore database (John). Cleaned up UI for the home and scanner screens (Peter).
+
+## Day 6 9/16/2021
+
+Configured Expo app to retrieve food ingredient data from firestore firebase. Data now prints in the Expo console when user presses the "Print Ingredient Data" button on the home screen. Was unable to as of now to store data in a variable that can be passed to a render () function in order to display it on the Food List screen. Will try again tomorrow to get that working.
