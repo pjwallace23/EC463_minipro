@@ -5,6 +5,8 @@ Please note: All progress and changes to codebase and programming can be found i
 
 #### Notice: Specific screenshots of our app and progress can be found in the screenshots folder
 
+#### API's Used: UPC Databse: https://upcdatabase.org/api and FDC Database: https://fdc.nal.usda.gov/api-guide.html
+
 # Video Demo
 [![DemoVideo](https://user-images.githubusercontent.com/50682462/133932153-5c30871a-982a-4962-a517-855ebe8a8759.PNG)](https://youtu.be/v5kCFWkiE9Q) </br>
 link:- https://youtu.be/v5kCFWkiE9Q </br>
