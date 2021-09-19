@@ -4,8 +4,8 @@ Development of an app in React Native Expo to scan and read a barcode with fireb
 Please note: All progress and changes to codebase and programming can be found in the various Peter and John branches. The code in there follows all our steps of development over the last weeks. All final changes and app code can be found in the master branch. 
 
 # Video Demo
-[!DemoVideo](https://user-images.githubusercontent.com/50682462/133932153-5c30871a-982a-4962-a517-855ebe8a8759.PNG)
-link:- https://youtu.be/v5kCFWkiE9Q
+[![DemoVideo](https://user-images.githubusercontent.com/50682462/133932153-5c30871a-982a-4962-a517-855ebe8a8759.PNG)](https://youtu.be/v5kCFWkiE9Q) </br>
+link:- https://youtu.be/v5kCFWkiE9Q </br>
 
 # DevLog / Goals
 
