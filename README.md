@@ -1,9 +1,9 @@
 # EC463_minipro
 Development of an app in React Native Expo to scan and read a barcode with firebase authentication and functional read and writes from cloud firestore database. 
 
-Please note: All progress and changes to codebase and programming can be found in the various Peter and John branches. The code in there follows all our steps of development over the last weeks. All final changes and app code can be found in the master branch. 
+#### PLEASE READ: All progress and changes to codebase and programming can be found in the various Peter and John branches. The code in there follows all our steps of development over the last weeks. All final changes and app code can be found in the master branch. 
 
-#### Notice: Specific screenshots of our app and progress can be found in the screenshots folder
+#### Images / Screenshots: Specific screenshots of our app and progress can be found in the screenshots folder
 
 #### API's Used: UPC Databse: https://upcdatabase.org/api and FDC Database: https://fdc.nal.usda.gov/api-guide.html
 
