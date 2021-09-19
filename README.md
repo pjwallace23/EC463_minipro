@@ -18,7 +18,7 @@ Installed development tools, including Node, Expo CLI and Android Studio. Config
 Worked remotely to setup Firebase with React Native (John) and Firebase with Expo (Peter). Started to configure a barcode scanner with expo as well as Google authentication in firebase using the android SHA1 key and package name. 
 
 ## Day3 9/11/2021
-Found a working case for the barcode scanner and implemented firebase and authentication. Started developing frontend UI and screen navigational logic for our final app.
+Found a working case for the barcode scanner and implemented firebase and authentication (email/password). Started developing frontend UI and screen navigational logic for our final app.
 
 ## Day 4 9/12/2021
 Continued fine-tuning firebase authentication. Implemented the barcode scanner in an app with firebase authentication and set up firestore database. 
